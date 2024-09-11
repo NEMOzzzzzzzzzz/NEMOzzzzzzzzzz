@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @NEMOzzzzzzzzzz (Varun)
 -
-- 👀 I’m interested in 
+- 👀 I’m interested in Becoming better 😖
 -
 - 🌱 I’m currently Looking to
 -     1. Solve More DSA
 -     2. Master C
--     3. Get started with JAVA
+-     3. Get started with Contributing to open source
 - 
 - 💞️ I’m looking to collaborate on anything that helps me grow as a professional
 -
