@@ -7,10 +7,9 @@
 -     2. Master C
 -     3. Get started with Contributing to open source
 - 
-- 💞️ I’m looking to collaborate on anything that helps me grow as a professional
+-  I’m looking to collaborate on anything that helps me grow as a professional
 -
 - 📫 How to reach me (varun.itcit@gmail.com, varun.@am_varun_s on instagram)
-- 😄 Pronouns: he/him
 -
 - ⚡ Fun fact: im weak and means there is always more room to improve...
 <!---
